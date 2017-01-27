@@ -7,6 +7,7 @@ public class SecondGit {
         // TODO code application logic here
         int x;
         int y;
+        int z;
     }
     
 }
